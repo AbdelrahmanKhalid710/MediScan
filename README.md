@@ -1,9 +1,13 @@
 Technologies
 ____________________________
 ASP.NET Core 6
+
 Entity Framework Core
+
 RESTful APIs
+
 MS SQL Server
+
 JWT Authentication
 Identity for User Management 
 _________________
